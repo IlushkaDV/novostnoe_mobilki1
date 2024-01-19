@@ -1,6 +1,6 @@
 # novostnoe
 
-A new Flutter project.
+mobilki
 
 ## Getting Started
 
